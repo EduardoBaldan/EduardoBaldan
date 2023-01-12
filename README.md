@@ -1,18 +1,14 @@
 ### Hi there 👋 
 
-<h1 align="left">Olá!<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"><br><br>Me chamo Thiago Nascimento, e esse é o meu perfil!!</h1
+<h1 align="left">Olá!<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"><br><br>Me chamo Eduardo Baldan, e esse é o meu perfil!!</h1
   
-  Analista de testes / desenvolvedor BackEnd
+  Analista de testes
   
   Iniciei na area de desenvolvimento em 2021, estou estudando Analise e desenvovilmento de sistemas pela UNINOVE, terminei o curso do SENAI de Desenvolvimento FullStack, desde então estou realizando diversos cursos na area, como Teste Web, Automação de testes, C#, Banco de dados com MySQL e SQLServer.
 
 
-
-
-Here are some ideas to get you started:
-
 - 📫 Fale comigo:
-<br>[![LinkedIn]([https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white](https://github.com/EduardoBaldan)](https://www.linkedin.com/in/thiagorochanascimento/)
+<br>[![LinkedIn]([https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white](https://github.com/EduardoBaldan)](https://www.linkedin.com/in/eduardo-baldan-214894158/)
 
 - 😄 Pronomes: Ele/Dele
 
