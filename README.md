@@ -10,7 +10,7 @@
 
 - 😄 Pronomes: Ele/Dele
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardoBaldan&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoBaldan&layout=compact&langs_count=10&theme=github_dark"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoBaldan&layout=compact&langs_count=10&theme=darcula"/>
 
 
