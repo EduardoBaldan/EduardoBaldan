@@ -6,11 +6,15 @@
 
 
 - 📫 Fale comigo:
-<br>[![LinkedIn]([https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white](https://github.com/EduardoBaldan)](https://www.linkedin.com/in/eduardo-baldan-214894158/)
+<div>
+
+<a href="https://www.linkedin.com/in/eduardo-baldan" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 
 - 😄 Pronomes: Ele/Dele
 
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoBaldan&layout=compact&langs_count=10&theme=darcula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardoBaldan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
 
